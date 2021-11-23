@@ -1,0 +1,17 @@
+program
+var
+integer
+boolean
+real
+char
+and
+begin
+if
+then
+else
+while
+do
+or
+not
+for
+end

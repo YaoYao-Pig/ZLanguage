@@ -1,0 +1,19 @@
+program example1;
+var
+    a:integer;
+begin
+    while e*(f/2) and d+c or c+d do
+    begin
+        l:=i+o;
+        while e*f and d+c or c+d do
+        begin
+            l:=i+o;
+            if e*f and d+c or c+d then
+            begin
+                l:=i+o
+            end
+            else
+            i:=1+1
+        end
+    end
+end.

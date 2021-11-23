@@ -1,0 +1,67 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "*.tcc": "cpp",
+        "cmath": "cpp",
+        "system_error": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "exception": "cpp",
+        "atomic": "cpp"
+    },
+    "debug.console.closeOnEnd": true,
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "cmake.configureOnOpen": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "workbench.colorTheme": "eppz!",
+    "files.autoSave": "afterDelay",
+    "code-runner.clearPreviousOutput": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "leetcode.endpoint": "leetcode-cn",
+    "leetcode.workspaceFolder": "C:\\Users\\史雪涛\\.leetcode",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "code-runner.executorMapByFileExtension": {
+        "cpp": "cd $dir && g++ &fileName -o $fileNameWithoutExt.exe && ./$fileNameWithoutExt.exe",
+        ".vb": "cd $dir && vbc /nologo $fileName && $dir$fileNameWithoutExt",
+        ".vbs": "cscript //Nologo",
+        ".scala": "scala",
+        ".jl": "julia",
+        ".cr": "crystal",
+        ".ml": "ocaml",
+        ".exs": "elixir",
+        ".hx": "haxe --cwd $dirWithoutTrailingSlash --run $fileNameWithoutExt",
+        ".rkt": "racket",
+        ".scm": "csi -script",
+        ".ahk": "autohotkey",
+        ".au3": "autoit3",
+        ".kt": "cd $dir && kotlinc $fileName -include-runtime -d $fileNameWithoutExt.jar && java -jar $fileNameWithoutExt.jar",
+        ".kts": "kotlinc -script",
+        ".dart": "dart",
+        ".pas": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+        ".pp": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+        ".d": "cd $dir && dmd $fileName && $dir$fileNameWithoutExt",
+        ".hs": "runhaskell",
+        ".nim": "nim compile --verbosity:0 --hints:off --run",
+        ".csproj": "dotnet run --project",
+        ".fsproj": "dotnet run --project",
+        ".lisp": "sbcl --script",
+        ".kit": "kitc --run",
+        ".v": "v run",
+        ".vsh": "v run",
+        ".sass": "sass --style expanded",
+        ".cu": "cd $dir && nvcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+    },
+    "cmake.preferredGenerators": [
+    
+    ],
+    "window.zoomLevel": 3
+}
